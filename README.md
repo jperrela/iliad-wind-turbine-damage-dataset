@@ -1,8 +1,8 @@
-# ILIAD Windmill Damage Dataset
+# ILIAD Wind Turbine Damage Dataset
 
 ## Overview
 
-The **ILIAD Windmill Damage Dataset** is a curated collection of annotated images of wind turbine blades exhibiting external damage such as cracks, erosion, and delamination. It was created to support research in **computer vision**, **structural health monitoring**, **UAV-based inspections**, and **predictive maintenance** for wind energy systems.
+The **ILIAD Wind Turbine Damage Dataset** is a curated collection of annotated images of wind turbine blades exhibiting external damage such as cracks, erosion, and delamination. It was created to support research in **computer vision**, **structural health monitoring**, **UAV-based inspections**, and **predictive maintenance** for wind energy systems.
 
 ### Key Features
 - **Dataset** of wind turbine blades images with visible damage.  
@@ -11,14 +11,14 @@ The **ILIAD Windmill Damage Dataset** is a curated collection of annotated image
 - **Pre-split** into training, validation, and test sets.  
 - Compatible with common ML frameworks (e.g. YOLO, COCO, Pascal VOC).  
 
-The dataset is also listed on the [Ocean Twin Marketplace](https://ocean-twin.eu/marketplace/product/iliad-windmill-damage-dataset).
+The dataset is also listed on the [Ocean Twin Marketplace](https://ocean-twin.eu/marketplace/product/iliad-wind-turbine-damage-dataset).
 
 ---
 
 ## Repository Structure
 
 ```
-iliad-windmill-damage-dataset/
+iliad-wind-turbine-damage-dataset/
 ├── train/
 │   ├── images/
 │   └── annotations/
